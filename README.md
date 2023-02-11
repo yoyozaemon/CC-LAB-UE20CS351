@@ -6,3 +6,6 @@ Introduction to AWS Lambda with API Gateway
 
 ## Lab - 1
 Introduction to AWS EC2 (Elastic Compute Cloud)
+
+## Lab - 2 
+Docker

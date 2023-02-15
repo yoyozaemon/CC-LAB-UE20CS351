@@ -4,6 +4,9 @@ A repository containing the source code for the Cloud Computing Laboratory, Assi
 ## Assignment - 1
 Introduction to AWS Lambda with API Gateway
 
+## Assignment - 2
+
+
 ## Lab - 1
 Introduction to AWS EC2 (Elastic Compute Cloud)
 

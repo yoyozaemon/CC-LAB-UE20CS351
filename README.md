@@ -4,7 +4,9 @@ A repository containing the source code for the Cloud Computing Laboratory, Assi
 ## Assignment - 1
 Introduction to AWS Lambda with API Gateway
 
-## Assignment - 2
+## Assignment - 2a & b
+- Jenkins(Creating a DevOps Pipeline, CI/CD tool)
+- Kubernetes
 
 
 ## Lab - 1

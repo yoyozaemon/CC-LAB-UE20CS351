@@ -8,9 +8,11 @@ Introduction to AWS Lambda with API Gateway
 - Jenkins(Creating a DevOps Pipeline, CI/CD tool)
 - Kubernetes
 
-
 ## Lab - 1
 Introduction to AWS EC2 (Elastic Compute Cloud)
 
 ## Lab - 2 
 Docker
+
+## Lab - 3
+Introduction to Amazon DynamoDB

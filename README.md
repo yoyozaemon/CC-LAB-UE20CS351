@@ -8,6 +8,9 @@ Introduction to AWS Lambda with API Gateway
 - Jenkins(Creating a DevOps Pipeline, CI/CD tool)
 - Kubernetes
 
+## Assignment - 3
+Introduction to AWS S3 (Simple Storage Service) and Hosting a Static Website Using Amazon Simple Storage Service
+
 ## Lab - 1
 Introduction to AWS EC2 (Elastic Compute Cloud)
 

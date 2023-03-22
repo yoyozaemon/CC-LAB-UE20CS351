@@ -19,3 +19,6 @@ Docker
 
 ## Lab - 3
 Introduction to Amazon DynamoDB
+
+## Lab - 4
+The Raft Consensus Algorithm

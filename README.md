@@ -12,6 +12,7 @@ Introduction to AWS Lambda with API Gateway
 Introduction to AWS S3 (Simple Storage Service) and Hosting a Static Website Using Amazon Simple Storage Service
 
 ## Assignment - 4
+Introduction to Apache Zookeeper
 
 ## Lab - 1
 Introduction to AWS EC2 (Elastic Compute Cloud)

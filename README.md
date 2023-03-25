@@ -11,6 +11,9 @@ Introduction to AWS Lambda with API Gateway
 ## Assignment - 3
 Introduction to AWS S3 (Simple Storage Service) and Hosting a Static Website Using Amazon Simple Storage Service
 
+## Assignment - 4
+Introduction to Apache Zookeeper
+
 ## Lab - 1
 Introduction to AWS EC2 (Elastic Compute Cloud)
 
@@ -19,3 +22,6 @@ Docker
 
 ## Lab - 3
 Introduction to Amazon DynamoDB
+
+## Lab - 4
+The Raft Consensus Algorithm

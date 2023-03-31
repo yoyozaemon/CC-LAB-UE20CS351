@@ -25,3 +25,6 @@ Introduction to Amazon DynamoDB
 
 ## Lab - 4
 The Raft Consensus Algorithm
+
+## Lab - 5
+Introduction to AWS IAM (Identity and Access Management)

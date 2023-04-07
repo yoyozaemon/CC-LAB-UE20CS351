@@ -14,6 +14,9 @@ Introduction to AWS S3 (Simple Storage Service) and Hosting a Static Website Usi
 ## Assignment - 4
 Introduction to Apache Zookeeper
 
+## Assignment - 5
+Introduction to AWS Key Management Service(KMS)
+
 ## Lab - 1
 Introduction to AWS EC2 (Elastic Compute Cloud)
 

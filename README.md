@@ -1,6 +1,9 @@
 # CC-UE20CS351
 A repository containing the source code for the Cloud Computing Laboratory, Assignment and Project Course (UE20CS351) at PES University
 
+## Project
+[Implementing of Raft Logic in Go](https://github.com/yoyozaemon/CC_Raft-Logic)
+
 ## Assignment - 1
 Introduction to AWS Lambda with API Gateway
 
